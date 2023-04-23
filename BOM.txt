@@ -1,0 +1,11 @@
+Qty Value            Device           Package          Parts      Description                
+2                    LEDSML0603       SML0603          LED1, LED2 LED                        
+1   100k             R-US_R0603       R0603            R4         RESISTOR, American symbol  
+1   11k              R-US_R0603       R0603            R5         RESISTOR, American symbol  
+1   22u              C-USC0805        C0805            C3         CAPACITOR, American symbol 
+2   2k               R-US_R0603       R0603            R1, R2     RESISTOR, American symbol  
+1   36.5k            R-US_R0603       R0603            R3         RESISTOR, American symbol  
+2   4.7u             C-USC0805        C0805            C1, C2     CAPACITOR, American symbol 
+1   LTM8055          LTM8055          LTM8055          IC1                                   
+2   PINHEADER-7P     PINHEADER-7P     7P               P1, P2                                
+1   TPSC686M016R0200 TPSC686M016R0200 TPSC686M016R0200 C4                                    
