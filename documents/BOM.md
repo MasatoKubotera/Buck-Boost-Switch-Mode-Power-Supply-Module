@@ -27,17 +27,17 @@
                 </tr>
                 <tr>
                     <td>C1, C2</td>
-                    <td>GRM21BR61E226ME44</td>
-                    <td><a href="https://akizukidenshi.com/catalog/g/gP-08240/">Akizuki / P-08240</a></td>
-                    <td><a href="https://www.murata.com/en-us/products/productdetail?partno=GRM21BR61E226ME44%23">Murata Electronics</a></td>
-                    <td>Multilayer Ceramic Capacitor SMD 22uF 25V ±20% X5R 0805</td>
-                </tr>
-                <tr>
-                    <td>C3</td>
                     <td>CL21A475KBQNNNE</td>
                     <td><a href="https://akizukidenshi.com/catalog/g/gP-07548/">Akizuki / P-07548</a></td>
                     <td><a href="https://product.samsungsem.com/mlcc/CL21A475KBQNNN.do">Samsung Electronics</a></td>
                     <td>Multilayer Ceramic Capacitor SMD 4.7uF 50V ±10% X5R 0805</td>
+                </tr>
+                <tr>
+                    <td>C3</td>
+                    <td>GRM21BR61E226ME44</td>
+                    <td><a href="https://akizukidenshi.com/catalog/g/gP-08240/">Akizuki / P-08240</a></td>
+                    <td><a href="https://www.murata.com/en-us/products/productdetail?partno=GRM21BR61E226ME44%23">Murata Electronics</a></td>
+                    <td>Multilayer Ceramic Capacitor SMD 22uF 25V ±20% X5R 0805</td>
                 </tr>
                 <tr>
                     <td>C4</td>
