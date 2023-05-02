@@ -8,7 +8,7 @@
 
 <body>
     <p><strong>This product is currently under development!</strong></p>
-	<h1>Buck Boost Regulator Module</h1>
+	<h1>Buck-Boost Switch Mode Power Supply Module</h1>
         <p>
         </p>
 	<h2>Features Rev. 1</h2>
