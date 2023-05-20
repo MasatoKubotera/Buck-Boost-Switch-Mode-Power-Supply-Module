@@ -58,7 +58,7 @@
                     <td>PH-1x40SG</td>
                     <td><a href="https://akizukidenshi.com/catalog/g/gC-00167/">Akizuki / C-00167</a></td>
                     <td><a href="">Useconn Electronics</a></td>
-                    <td>Pin Header Straight 2.54mm PiTCH 3A 20mΩ 500V</td>
+                    <td>Pin Header Straight 2.54mm Pitch 3A 20mΩ 500V</td>
                 </tr>
                 <tr>
                     <td>R1, R2</td>
