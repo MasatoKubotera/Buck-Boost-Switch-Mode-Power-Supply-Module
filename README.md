@@ -10,6 +10,18 @@
     <p><strong>This product is currently under development!</strong></p>
 	<h1>Buck-Boost Switch Mode Power Supply Module</h1>
         <p>
+            <table>
+                <tr>
+                    <th>Top Surface of PCB</th>
+                    <th>Bottom Surface of PCB</th>
+                    <th>Assembled Electronic Components</th>
+                </tr>
+                <tr>
+                    <td><img src="./images/brd_top.png" width="160px"></td>
+                    <td><img src="./images/brd_bottom.png" width="160px"></td>
+                    <td><img src="" width="160px"></td>
+                </tr>
+            </table>
         </p>
 	<h2>Features Rev. 1</h2>
         <p>
@@ -88,6 +100,14 @@
             <ul>
                 <li><a href="/pcb_order/README.md">\pcb_order\README.md</a>: Information for ordering the PCB</li>
                 <li><a href="/documents/BOM.md">\document\BOM.md</a>: List of electronic components assembled on the PCB</li>
+            </ul>
+        </p>
+    <h3>Note</h3>
+        <p>
+            The die temperature of the LTM8055/LTM8055-1 must be lower than the maximum rating of 125°C. Therefore, it is recommended that the following heat sinks be affixed to the LTM8055/LTM8055-1.<br>
+            Details: <a href="https://www.analog.com/media/en/technical-documentation/data-sheets/LTM8055-8055-1.pdf#page=18">Analog Devices LTM8055/LTM8055-1 Data Sheet Page#18</a>
+            <ul>
+                <li><a href="https://amzn.asia/d/5Kmnowi">Awxlumv Aluminum Heatsink 14mm x 14mm x 6mm</a></li>
             </ul>
         </p>
     <h2>References</h2>
