@@ -69,10 +69,10 @@
                 </tr>
                 <tr>
                     <td>R3</td>
-                    <td>RC0603FR-0736K5L</td>
-                    <td><a href="https://www.mouser.jp/ProductDetail/603-RC0603FR-0736K5L">Mouser /603-RC0603FR-0736K5L </a></td>
-                    <td>YAGEO</td>
-                    <td>Thick Film Resistor SMD 36.5kΩ 1/10W ±1% 0603</td>
+                    <td>CPF0603B45K3E1</td>
+                    <td><a href="https://jp.rs-online.com/web/p/surface-mount-resistors/1228879">RS Components /122-8879 </a></td>
+                    <td>TE Connectivity</td>
+                    <td>Thick Film Resistor SMD 45.3kΩ 0.063W ±0.1% 0603</td>
                 </tr>
                 <tr>
                     <td>R4</td>
@@ -80,6 +80,30 @@
                     <td><a href="https://www.mouser.jp/ProductDetail/603-RC0603FR-07100KL">Mouser / 603-RC0603FR-07100KL</a></td>
                     <td>YAGEO</td>
                     <td>Thick Film Resistor SMD 100kΩ 1/10W ±1% 0603</td>
+                </tr>
+                <tr>
+                    <td>R5</td>
+                    <td>ERA3APB6981V</td>
+                    <td><a href="https://jp.rs-online.com/web/p/surface-mount-resistors/8409357">RS Components / 840-9357L</a></td>
+                    <td>Panasonic</td>
+                    <td>Thick Film Resistor SMD 6.98kΩ 1/10W ±0.1% 0603</td>
+                </tr>
+            </table>
+            For a configuration with output voltage/current of 12V/6A, change to the following.
+            <table>
+                <tr>
+                    <th>Top Designator</th>
+                    <th>MFR.Part #</th>
+                    <th>Distributor / Part #</th>
+                    <th>Manufacturer</th>
+                    <th>Part Detail</th>
+                </tr>
+                <tr>
+                    <td>R3</td>
+                    <td>RC0603FR-0736K5L</td>
+                    <td><a href="https://www.mouser.jp/ProductDetail/603-RC0603FR-0736K5L">Mouser /603-RC0603FR-0736K5L </a></td>
+                    <td>YAGEO</td>
+                    <td>Thick Film Resistor SMD 36.5kΩ 1/10W ±1% 0603</td>
                 </tr>
                 <tr>
                     <td>R5</td>

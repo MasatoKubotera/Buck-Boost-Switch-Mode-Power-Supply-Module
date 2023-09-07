@@ -19,13 +19,14 @@
                 <tr>
                     <td><img src="./images/brd_top.png" width="160px"></td>
                     <td><img src="./images/brd_bottom.png" width="160px"></td>
-                    <td><img src="" width="160px"></td>
+                    <td><img src="https://github.com/SUSTAINA-OP/Buck-Boost-Switch-Mode-Power-Supply-Module/assets/53966390/4f0a117d-ae24-4516-be07-bfcbad036c32" width="160px"></td>
                 </tr>
             </table>
         </p>
 	<h2>Features Rev. 1</h2>
         <p>
-            This product is a buck-boost switch mode power supply module. Supports the wide voltage input range of 5V to 36V, and 12V/6A output from 12V input. The switching frequency is configured at 600 kHz.
+            This product is a buck-boost switch mode power supply module using Analog Devices <a href="https://www.analog.com/en/products/ltm8055.html">LTM8055</a>. Supports the wide voltage input range of 5V to 36V. The output current and switching frequency are determined by the resistor value to be mounted.<br>
+            This product was designed with a recommended 12V/6A output and a switching frequency of 600kHz. However, it was later changed to 18V/5A output and 800kHz switching frequency to suit SUSTAINA-OP<sup>TM</sup> applications.
         </p>
     <h3>PCB</h3>
         <p>
@@ -42,7 +43,7 @@
                         </li>
                         <li>1 x 7 pin headers - 2
                             <ul>
-                                <li><strong>3x VOUT</strong>: Power Out (Regulated 12V)</li>
+                                <li><strong>3x VOUT</strong>: Power Out (Regulated 18V)</li>
                                 <li><strong>1x NC</strong> Non Connection</li>
                                 <li><strong>3x GND</strong>: Common Ground</li>
                             </ul>
@@ -103,12 +104,19 @@
             </ul>
         </p>
     <h3>Note</h3>
+    <h4>Die due to temperature</h4>
         <p>
             The die temperature of the LTM8055/LTM8055-1 must be lower than the maximum rating of 125°C. Therefore, it is recommended that the following heat sinks be affixed to the LTM8055/LTM8055-1.<br>
             Details: <a href="https://www.analog.com/media/en/technical-documentation/data-sheets/LTM8055-8055-1.pdf#page=18">Analog Devices LTM8055/LTM8055-1 Data Sheet Page#18</a>
             <ul>
                 <li><a href="https://amzn.asia/d/5Kmnowi">Awxlumv Aluminum Heatsink 14mm x 14mm x 6mm</a></li>
             </ul>
+        </p>
+    <h4>Output voltage and switching frequency</h4>
+        <p>
+            The output voltage of LTM8055/LTM8055-1 is determined by R4 and R5 on the board, and the switching frequency by R3. If the voltage is set other than the recommended configuration voltage, the voltage is determined by the following equation.<br>
+            Output voltage [V] = 1.2 * (1 + R4 / R5)<br>
+            Details: <a href="https://www.analog.com/media/en/technical-documentation/data-sheets/LTM8055-8055-1.pdf#page=10">Analog Devices LTM8055/LTM8055-1 Data Sheet Page#10</a>
         </p>
     <h2>References</h2>
         <p>
